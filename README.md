@@ -4,7 +4,7 @@
 <h3 align="center"> 👋 Nice to meet you! 👋 </h3>
 <div align="center">
 만나서 정말 반갑다구리! 최대한 나의 프로필을 꾸며보겠다구리!</div>
-<h3 align="center"> 🧱 Tech Stack</h3>
+<h3 align="center"> 🧱 Tech Stack 🧱</h3>
 <div align="center">
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
